@@ -1,2 +1,2 @@
 # exa844
-Projeto da disciplina
+Projeto da disciplina de Programação para Redes da UEFS
